@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="556a9dde-1eb2-4822-a2b9-d9d6a3702d45" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="composer.json" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/container-interop/container-interop" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/slim/slim" />
+      <path value="$PROJECT_DIR$/vendor/nikic/fast-route" />
+      <path value="$PROJECT_DIR$/vendor/pimple/pimple" />
+      <path value="$PROJECT_DIR$/vendor/tuupola/slim-basic-auth" />
+      <path value="$PROJECT_DIR$/vendor/tuupola/http-factory" />
+      <path value="$PROJECT_DIR$/vendor/tuupola/callable-handler" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-server-handler" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-server-middleware" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-factory" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1kUvRUg53hUWZiihBE8m0ZvZzum" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="556a9dde-1eb2-4822-a2b9-d9d6a3702d45" name="Default Changelist" comment="" />
+      <created>1605767979774</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605767979774</updated>
+      <workItem from="1605767982397" duration="11305000" />
+      <workItem from="1605788341186" duration="5211000" />
+      <workItem from="1605794036655" duration="860000" />
+      <workItem from="1605886157631" duration="2852000" />
+      <workItem from="1605947026824" duration="690000" />
+      <workItem from="1606063125676" duration="606000" />
+      <workItem from="1606108891600" duration="26000" />
+      <workItem from="1606135663056" duration="2155000" />
+      <workItem from="1606139380632" duration="1992000" />
+      <workItem from="1606196267136" duration="26000" />
+      <workItem from="1606284139756" duration="11412000" />
+      <workItem from="1606307956030" duration="1573000" />
+      <workItem from="1606379136361" duration="2082000" />
+      <workItem from="1606483237984" duration="514000" />
+      <workItem from="1606637316618" duration="1286000" />
+      <workItem from="1606657828759" duration="692000" />
+      <workItem from="1606984411309" duration="1298000" />
+      <workItem from="1608467594342" duration="140000" />
+      <workItem from="1611046860445" duration="90000" />
+      <workItem from="1611122037852" duration="4990000" />
+      <workItem from="1611150137939" duration="740000" />
+      <workItem from="1611208111345" duration="3860000" />
+      <workItem from="1611393620700" duration="443000" />
+      <workItem from="1611412153997" duration="3000" />
+      <workItem from="1611580925774" duration="898000" />
+      <workItem from="1611642768815" duration="6297000" />
+      <workItem from="1611663015430" duration="7829000" />
+      <workItem from="1611725263127" duration="230000" />
+      <workItem from="1611725542910" duration="282000" />
+      <workItem from="1611736840279" duration="2810000" />
+      <workItem from="1611752625388" duration="3978000" />
+      <workItem from="1611811963649" duration="1181000" />
+      <workItem from="1612274827024" duration="684000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
